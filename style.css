@@ -1,0 +1,18 @@
+#container {
+    display: flex;
+    flex-flow: row wrap;
+     width: 980px; height: auto;
+    margin: 0px; padding: 0px;  
+    row-gap: 0px;
+    
+}
+#button{
+    width: 75px;
+    height: auto;
+}
+
+#big-container{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+} 
